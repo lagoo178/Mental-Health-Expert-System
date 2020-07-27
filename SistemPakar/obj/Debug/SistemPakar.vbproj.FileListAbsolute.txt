@@ -1,0 +1,16 @@
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\bin\Debug\SistemPakar.exe.config
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\bin\Debug\SistemPakar.exe
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\bin\Debug\SistemPakar.pdb
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\bin\Debug\SistemPakar.xml
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.vbprojAssemblyReference.cache
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.Form1.resources
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.Form2.resources
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.Resources.resources
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.vbproj.GenerateResource.cache
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.vbproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.exe
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.xml
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.pdb
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.Galau.resources
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.Depresi1.resources
+C:\Users\Personal\source\repos\SistemPakar\SistemPakar\obj\Debug\SistemPakar.Depresi2.resources
